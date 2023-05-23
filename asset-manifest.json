@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactusestatepractice/static/css/main.a711546c.css",
+    "main.js": "/reactusestatepractice/static/js/main.2b14f7e2.js",
+    "index.html": "/reactusestatepractice/index.html",
+    "main.a711546c.css.map": "/reactusestatepractice/static/css/main.a711546c.css.map",
+    "main.2b14f7e2.js.map": "/reactusestatepractice/static/js/main.2b14f7e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a711546c.css",
+    "static/js/main.2b14f7e2.js"
+  ]
+}
